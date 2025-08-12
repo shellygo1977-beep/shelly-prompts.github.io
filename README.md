@@ -1,36 +1,21 @@
-# Shelly Goins | Prompt Engineer & Creative Problem Solver
+# Shelly Goins | Applied Prompt Engineer with Real-World Impact
 
-Welcome to my portfolio. I'm Shelly—a resilient, resourceful, and creative force based in Keokuk, Iowa. With a background in technical troubleshooting, legal advocacy, and community leadership, I now channel my skills into prompt engineering and remote work solutions.
+Welcome. I’m Shelly—a prompt engineer who doesn’t just write clever instructions for AI. I build prompts that solve problems, clarify complexity, and deliver results. My work spans legal systems, technical troubleshooting, and strategic planning—always grounded in empathy, precision, and purpose.
 
-## ✨ What I Do
+## 🧠 Why I’m Different
 
-- **Prompt Engineering**: I design, refine, and test AI prompts for real-world tasks—from legal research to creative design.
-- **Creative Design**: I build functional, artful environments for pets and people—like custom cat playgrounds and DIY home upgrades.
-- **Technical Troubleshooting**: Whether it's laptop repairs or banking workarounds, I find solutions where others hit dead ends.
-- **Advocacy & Communication**: I write compelling letters, manage reputation challenges, and fight for fairness in complex systems.
+I didn’t come from Silicon Valley. I came from the real world—where broken laptops, court deadlines, and banking barriers don’t wait for perfect conditions. I’ve used prompt engineering to:
 
-## 🧠 Skills & Strengths
+- Explain felony classifications in plain English
+- Guide users through BIOS resets and device recovery
+- Strategize detox plans tailored to autoimmune conditions
+- Navigate financial systems when institutions say “no”
 
-- Rapid learning in tech and AI tools
-- Empathetic storytelling and advocacy
-- Legal navigation and strategic research
-- DIY innovation and cost-effective problem solving
+I build prompts that work under pressure, for people who need answers now.
 
-## 🐾 Featured Projects
+## 🔍 Featured Prompt Projects
 
-- **Cat Wall Playground**: A vertical jungle gym designed for joy, beauty, and feline health.
-- **Prompt Portfolio**: AI prompts for legal support, pet care, and financial navigation.
-- **Community Campaigns**: School supply drives and citywide cleanups featured in local media.
-
-## 💼 Work History
-
-- General Manager | Community Organizer
-- U.S. Postal Service | 10 Years of Service
-- Small Business Owner | Furniture Refinishing & Online Sales
-- Youth Leader | Basketball Coach & Sunday School Teacher
-
-## 📬 Let’s Connect
-
-I'm open to remote work, collaborations, and creative partnerships. If you're looking for someone who blends grit, grace, and ingenuity—I'm your person.
-
-> “I don’t just solve problems—I redesign them.”
+### ⚖️ Legal Clarity Prompt
+**Goal**: Help users understand Class X felony charges and pretrial conditions  
+**Prompt Strategy**: Used layered prompting to simplify legal jargon, generate analogies, and offer actionable next steps  
+**Impact
